@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FatcatsTrip_H5.data.unityweb",
+"asmCodeUrl": "FatcatsTrip_H5.asm.code.unityweb",
+"asmMemoryUrl": "FatcatsTrip_H5.asm.memory.unityweb",
+"asmFrameworkUrl": "FatcatsTrip_H5.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
